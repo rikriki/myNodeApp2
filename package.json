@@ -1,0 +1,17 @@
+{
+  "name": "myNodeApp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+     "start": "node ./bin/www"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines":{
+  	"node":"0.10.x"
+  }
+}
+
+
+
